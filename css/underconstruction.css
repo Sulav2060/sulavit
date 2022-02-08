@@ -1,0 +1,47 @@
+* {
+    background-color: rgb(136, 27, 136);
+}
+
+.underconstruction {
+    text-align: center;
+    font-size: 7cm;
+    color: white;
+}
+
+.logo img {
+    width: 100%;
+    justify-content: center;
+}
+
+.contact {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 5cm;
+    color: white;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    justify-items: center;
+}
+
+.links li {
+    display: inline;
+    justify-content: center;
+    padding-left: 60px;
+}
+
+.links li img {
+    width: 300px;
+}
+
+.text {
+    justify-content: center;
+    padding-left: 400px;
+    display: inline;
+    color: white;
+    font-size: 100px;
+    text-decoration: none;
+}
